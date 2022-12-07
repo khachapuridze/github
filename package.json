@@ -5,12 +5,12 @@
   "author": "SidKwok <oceankwok@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "connect-timeout": "^1.7.0",
     "cookie-parser": "^1.3.5",
     "ejs": "2.5.5",
-    "express": "^4.17.1",
-    "leanengine": "^1.0.0-beta"
+    "express": "^4.18.2",
+    "leanengine": "^3.8.0"
   },
   "engines": {
     "node": "4.x"
